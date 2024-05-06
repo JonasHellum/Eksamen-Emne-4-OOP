@@ -1,0 +1,15 @@
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave2\obj\Debug\net8.0\Oppgave2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave2\obj\Debug\net8.0\Oppgave2.AssemblyInfoInputs.cache
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave2\obj\Debug\net8.0\Oppgave2.AssemblyInfo.cs
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave2\obj\Debug\net8.0\Oppgave2.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave2\obj\Debug\net8.0\Oppgave2.sourcelink.json
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave2\bin\Debug\net8.0\Oppgave2.exe
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave2\bin\Debug\net8.0\Oppgave2.deps.json
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave2\bin\Debug\net8.0\Oppgave2.runtimeconfig.json
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave2\bin\Debug\net8.0\Oppgave2.dll
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave2\bin\Debug\net8.0\Oppgave2.pdb
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave2\obj\Debug\net8.0\Oppgave2.dll
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave2\obj\Debug\net8.0\refint\Oppgave2.dll
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave2\obj\Debug\net8.0\Oppgave2.pdb
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave2\obj\Debug\net8.0\Oppgave2.genruntimeconfig.cache
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave2\obj\Debug\net8.0\ref\Oppgave2.dll

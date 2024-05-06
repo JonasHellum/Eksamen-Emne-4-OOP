@@ -1,0 +1,5 @@
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave3\obj\Debug\net8.0\Oppgave3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave3\obj\Debug\net8.0\Oppgave3.AssemblyInfoInputs.cache
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave3\obj\Debug\net8.0\Oppgave3.AssemblyInfo.cs
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave3\obj\Debug\net8.0\Oppgave3.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave3\obj\Debug\net8.0\Oppgave3.sourcelink.json
