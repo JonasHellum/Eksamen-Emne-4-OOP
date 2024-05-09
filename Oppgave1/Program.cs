@@ -25,7 +25,7 @@ Console.WriteLine("\nOppgave 1B");
 // ... oppgave B her 
 Console.Write("Skriv inn en setning: ");
 string input = Console.ReadLine();
-Console.WriteLine($"Antall ord i setningen er: {input.Split(' ',
+Console.WriteLine($"Antall ord i setningen er: {input!.Split(' ',
                                                 StringSplitOptions.RemoveEmptyEntries).Length}");
 #endregion
 
