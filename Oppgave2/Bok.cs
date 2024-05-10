@@ -1,6 +1,7 @@
 ﻿namespace Oppgave2;
+using Bok_Interface;
 
-public class Bok
+public class Bok : IFormatable
 {
     #region Part A
     private int _pageCount;
@@ -46,7 +47,7 @@ public class Bok
         return true;
     }
 
-    public string GetInfo()
+    public virtual string GetInfo()
     {
         return $"Title: {Title}, Author: {Author}, ISBN: {ISBN}, PageCount: {PageNumber}";
     }
@@ -59,6 +60,19 @@ public class Bok
         this.Author = author;
         this.ISBN = iSBN;
         this._pageCount = pageNumber;
+    }
+    #endregion
+
+    #region Part B in Oppgave4
+    public string ToCSV()
+    {
+        return $"\"{ISBN}\",\"{Title}\",\"{Author}\",{PageNumber}";
+    }
+
+    public string ToJSON()
+    {
+        return $"{{ \"ISBN\": \"{ISBN}\", \"Title\": \"{Title}\", \"Author\": \"{Author}\", " +
+               $"\"PageCount\": \"{PageNumber}\" }}";
     }
     #endregion
 }

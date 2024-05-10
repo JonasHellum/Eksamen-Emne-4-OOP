@@ -1,4 +1,6 @@
-﻿namespace Oppgave3;
+﻿using Oppgave2;
+
+namespace Oppgave3;
 
 public class E_bok : Bok
 {

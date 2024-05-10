@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oppgave4", "Oppgave4\Oppgav
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oppgave5", "Oppgave5\Oppgave5.csproj", "{0EFA8896-B924-4E0F-AE0E-7CA584EFA933}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bok_Interface", "Bok_Interface\Bok_Interface.csproj", "{DC0FD4B3-85A1-4740-8174-BA89823C06A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{0EFA8896-B924-4E0F-AE0E-7CA584EFA933}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EFA8896-B924-4E0F-AE0E-7CA584EFA933}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EFA8896-B924-4E0F-AE0E-7CA584EFA933}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC0FD4B3-85A1-4740-8174-BA89823C06A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC0FD4B3-85A1-4740-8174-BA89823C06A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC0FD4B3-85A1-4740-8174-BA89823C06A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC0FD4B3-85A1-4740-8174-BA89823C06A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

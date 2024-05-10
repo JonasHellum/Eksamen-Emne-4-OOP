@@ -8,9 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Update="E-bok.cs">
-      <DependentUpon>Bok.cs</DependentUpon>
-    </Compile>
+    <ProjectReference Include="..\Oppgave2\Oppgave2.csproj" />
   </ItemGroup>
 
 </Project>

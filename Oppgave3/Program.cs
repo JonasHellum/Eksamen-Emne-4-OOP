@@ -1,5 +1,6 @@
 ﻿// Oppgave 3
 
+using Oppgave2;
 using Oppgave3;
 
 // E_bok bok1 = new E_bok("Sophies Verden", "Jostein Gaarder", "978-82-02-15968-7", 540, 5.5);

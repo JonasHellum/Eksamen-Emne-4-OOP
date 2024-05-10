@@ -13,3 +13,7 @@ C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave2\obj\Debug\net8.0\refint
 C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave2\obj\Debug\net8.0\Oppgave2.pdb
 C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave2\obj\Debug\net8.0\Oppgave2.genruntimeconfig.cache
 C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave2\obj\Debug\net8.0\ref\Oppgave2.dll
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave2\bin\Debug\net8.0\Bok_Interface.dll
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave2\bin\Debug\net8.0\Bok_Interface.pdb
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave2\obj\Debug\net8.0\Oppgave2.csproj.AssemblyReference.cache
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave2\obj\Debug\net8.0\Oppgave2.csproj.CopyComplete

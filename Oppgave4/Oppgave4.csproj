@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Bok_Interface\Bok_Interface.csproj" />
+    <ProjectReference Include="..\Oppgave2\Oppgave2.csproj" />
+  </ItemGroup>
+
 </Project>

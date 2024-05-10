@@ -13,3 +13,10 @@ C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave3\obj\Debug\net8.0\refint
 C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave3\obj\Debug\net8.0\Oppgave3.pdb
 C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave3\obj\Debug\net8.0\Oppgave3.genruntimeconfig.cache
 C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave3\obj\Debug\net8.0\ref\Oppgave3.dll
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave3\bin\Debug\net8.0\Oppgave2.deps.json
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave3\bin\Debug\net8.0\Oppgave2.runtimeconfig.json
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave3\bin\Debug\net8.0\Oppgave2.exe
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave3\bin\Debug\net8.0\Oppgave2.dll
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave3\bin\Debug\net8.0\Oppgave2.pdb
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave3\obj\Debug\net8.0\Oppgave3.csproj.AssemblyReference.cache
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave3\obj\Debug\net8.0\Oppgave3.csproj.CopyComplete

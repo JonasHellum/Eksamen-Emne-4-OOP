@@ -1,0 +1,12 @@
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Bok_Interface\bin\Debug\net8.0\Bok_Interface.deps.json
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Bok_Interface\bin\Debug\net8.0\Bok_Interface.dll
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Bok_Interface\bin\Debug\net8.0\Bok_Interface.pdb
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Bok_Interface\obj\Debug\net8.0\Bok_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Bok_Interface\obj\Debug\net8.0\Bok_Interface.AssemblyInfoInputs.cache
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Bok_Interface\obj\Debug\net8.0\Bok_Interface.AssemblyInfo.cs
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Bok_Interface\obj\Debug\net8.0\Bok_Interface.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Bok_Interface\obj\Debug\net8.0\Bok_Interface.sourcelink.json
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Bok_Interface\obj\Debug\net8.0\Bok_Interface.dll
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Bok_Interface\obj\Debug\net8.0\refint\Bok_Interface.dll
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Bok_Interface\obj\Debug\net8.0\Bok_Interface.pdb
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Bok_Interface\obj\Debug\net8.0\ref\Bok_Interface.dll

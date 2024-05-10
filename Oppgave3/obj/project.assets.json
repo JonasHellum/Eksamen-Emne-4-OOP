@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "Bok_Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Bok_Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bok_Interface.dll": {}
+        }
+      },
+      "Oppgave2/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Bok_Interface": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Oppgave2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Oppgave2.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Bok_Interface/1.0.0": {
+      "type": "project",
+      "path": "../Bok_Interface/Bok_Interface.csproj",
+      "msbuildProject": "../Bok_Interface/Bok_Interface.csproj"
+    },
+    "Oppgave2/1.0.0": {
+      "type": "project",
+      "path": "../Oppgave2/Oppgave2.csproj",
+      "msbuildProject": "../Oppgave2/Oppgave2.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "Oppgave2 >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Jonas\\.nuget\\packages\\": {}
@@ -31,7 +68,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Jonas\\RiderProjects\\Eksamen_Emne_4_OOP\\Oppgave2\\Oppgave2.csproj": {
+              "projectPath": "C:\\Users\\Jonas\\RiderProjects\\Eksamen_Emne_4_OOP\\Oppgave2\\Oppgave2.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
