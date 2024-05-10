@@ -1,4 +1,4 @@
-﻿ISBN, Title, Author, PageCount
+﻿"ISBN","Title","Author","PageCount"
 "978-82-02-20472-2","Markens Grøde","Knut Hamsun",350
 "978-82-02-15968-7","Sophies Verden","Jostein Gaarder",540
 "978-82-525-6348-2","Ut å stjæle hester","Per Petterson",264
@@ -8,4 +8,4 @@
 "978-82-02-19669-8","Hundre år","Herbjørg Wassmo",400
 "978-82-02-48757-4","Kongens Nei","Alf R. Jacobsen",320
 "978-82-05-16317-4","Beatles","Lars Saabye Christensen",560
-"","Snømannen","Jo Nesbø",384
+"978-82-02-26753-8","Snømannen","Jo Nesbø",384

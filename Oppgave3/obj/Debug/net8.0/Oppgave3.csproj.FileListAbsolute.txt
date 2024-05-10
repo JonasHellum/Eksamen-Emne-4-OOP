@@ -20,3 +20,5 @@ C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave3\bin\Debug\net8.0\Oppgav
 C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave3\bin\Debug\net8.0\Oppgave2.pdb
 C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave3\obj\Debug\net8.0\Oppgave3.csproj.AssemblyReference.cache
 C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave3\obj\Debug\net8.0\Oppgave3.csproj.CopyComplete
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave3\bin\Debug\net8.0\Bok_Interface.dll
+C:\Users\Jonas\RiderProjects\Eksamen_Emne_4_OOP\Oppgave3\bin\Debug\net8.0\Bok_Interface.pdb

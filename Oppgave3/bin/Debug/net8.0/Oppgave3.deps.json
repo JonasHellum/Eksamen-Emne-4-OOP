@@ -14,7 +14,15 @@
           "Oppgave3.dll": {}
         }
       },
+      "Bok_Interface/1.0.0": {
+        "runtime": {
+          "Bok_Interface.dll": {}
+        }
+      },
       "Oppgave2/1.0.0": {
+        "dependencies": {
+          "Bok_Interface": "1.0.0"
+        },
         "runtime": {
           "Oppgave2.dll": {}
         }
@@ -23,6 +31,11 @@
   },
   "libraries": {
     "Oppgave3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bok_Interface/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

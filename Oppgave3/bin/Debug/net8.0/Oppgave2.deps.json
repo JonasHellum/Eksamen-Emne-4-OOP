@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "Oppgave2/1.0.0": {
+        "dependencies": {
+          "Bok_Interface": "1.0.0"
+        },
         "runtime": {
           "Oppgave2.dll": {}
+        }
+      },
+      "Bok_Interface/1.0.0": {
+        "runtime": {
+          "Bok_Interface.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Oppgave2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bok_Interface/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

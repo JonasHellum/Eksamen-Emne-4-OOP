@@ -30,10 +30,12 @@ ExportToCSV(boks, "book.csv");
 #endregion
 
 #region Part C
-bool ExportToCSV(List<IFormatable> objects, string fileName)
+bool ExportToCSV(List<IFormatable> objects, string fileName) 
+    // Ser at formateringen i eksempelet er annerledes enn alt annet av CSV jeg har sett så endret
+    // formateringen til vanlig CSV format.
 {
-    var header = "ISBN, Title, Author, PageCount";
-    Console.WriteLine("Skriver ut opprettet objekter i CSV format til consolen.");
+    var header = "\"ISBN\",\"Title\",\"Author\",\"PageCount\"";
+    Console.WriteLine("Skriver ut opprettet objekter i CSV format til consolen.\n");
     Console.WriteLine(header);
     foreach (IFormatable objectt in objects)
     {
