@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jonas\\RiderProjects\\Eksamen_Emne_4_OOP\\Oppgave1\\Oppgave1.csproj": {}
+    "C:\\Users\\Jonas\\RiderProjects\\Eksamen-Emne-4-OOP\\Oppgave1\\Oppgave1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jonas\\RiderProjects\\Eksamen_Emne_4_OOP\\Oppgave1\\Oppgave1.csproj": {
+    "C:\\Users\\Jonas\\RiderProjects\\Eksamen-Emne-4-OOP\\Oppgave1\\Oppgave1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jonas\\RiderProjects\\Eksamen_Emne_4_OOP\\Oppgave1\\Oppgave1.csproj",
+        "projectUniqueName": "C:\\Users\\Jonas\\RiderProjects\\Eksamen-Emne-4-OOP\\Oppgave1\\Oppgave1.csproj",
         "projectName": "Oppgave1",
-        "projectPath": "C:\\Users\\Jonas\\RiderProjects\\Eksamen_Emne_4_OOP\\Oppgave1\\Oppgave1.csproj",
+        "projectPath": "C:\\Users\\Jonas\\RiderProjects\\Eksamen-Emne-4-OOP\\Oppgave1\\Oppgave1.csproj",
         "packagesPath": "C:\\Users\\Jonas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jonas\\RiderProjects\\Eksamen_Emne_4_OOP\\Oppgave1\\obj\\",
+        "outputPath": "C:\\Users\\Jonas\\RiderProjects\\Eksamen-Emne-4-OOP\\Oppgave1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jonas\\AppData\\Roaming\\NuGet\\NuGet.Config"

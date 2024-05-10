@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jonas\\RiderProjects\\Eksamen_Emne_4_OOP\\Oppgave5\\Oppgave5.csproj",
+      "projectUniqueName": "C:\\Users\\Jonas\\RiderProjects\\Eksamen-Emne-4-OOP\\Oppgave5\\Oppgave5.csproj",
       "projectName": "Oppgave5",
-      "projectPath": "C:\\Users\\Jonas\\RiderProjects\\Eksamen_Emne_4_OOP\\Oppgave5\\Oppgave5.csproj",
+      "projectPath": "C:\\Users\\Jonas\\RiderProjects\\Eksamen-Emne-4-OOP\\Oppgave5\\Oppgave5.csproj",
       "packagesPath": "C:\\Users\\Jonas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jonas\\RiderProjects\\Eksamen_Emne_4_OOP\\Oppgave5\\obj\\",
+      "outputPath": "C:\\Users\\Jonas\\RiderProjects\\Eksamen-Emne-4-OOP\\Oppgave5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jonas\\AppData\\Roaming\\NuGet\\NuGet.Config"

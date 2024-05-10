@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jonas\\RiderProjects\\Eksamen_Emne_4_OOP\\Oppgave3\\Oppgave3.csproj",
+      "projectUniqueName": "C:\\Users\\Jonas\\RiderProjects\\Eksamen-Emne-4-OOP\\Oppgave3\\Oppgave3.csproj",
       "projectName": "Oppgave3",
-      "projectPath": "C:\\Users\\Jonas\\RiderProjects\\Eksamen_Emne_4_OOP\\Oppgave3\\Oppgave3.csproj",
+      "projectPath": "C:\\Users\\Jonas\\RiderProjects\\Eksamen-Emne-4-OOP\\Oppgave3\\Oppgave3.csproj",
       "packagesPath": "C:\\Users\\Jonas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jonas\\RiderProjects\\Eksamen_Emne_4_OOP\\Oppgave3\\obj\\",
+      "outputPath": "C:\\Users\\Jonas\\RiderProjects\\Eksamen-Emne-4-OOP\\Oppgave3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jonas\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -69,8 +69,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Jonas\\RiderProjects\\Eksamen_Emne_4_OOP\\Oppgave2\\Oppgave2.csproj": {
-              "projectPath": "C:\\Users\\Jonas\\RiderProjects\\Eksamen_Emne_4_OOP\\Oppgave2\\Oppgave2.csproj"
+            "C:\\Users\\Jonas\\RiderProjects\\Eksamen-Emne-4-OOP\\Oppgave2\\Oppgave2.csproj": {
+              "projectPath": "C:\\Users\\Jonas\\RiderProjects\\Eksamen-Emne-4-OOP\\Oppgave2\\Oppgave2.csproj"
             }
           }
         }

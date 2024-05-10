@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jonas\\RiderProjects\\Eksamen_Emne_4_OOP\\Bok_Interface\\Bok_Interface.csproj",
+      "projectUniqueName": "C:\\Users\\Jonas\\RiderProjects\\Eksamen-Emne-4-OOP\\Bok_Interface\\Bok_Interface.csproj",
       "projectName": "Bok_Interface",
-      "projectPath": "C:\\Users\\Jonas\\RiderProjects\\Eksamen_Emne_4_OOP\\Bok_Interface\\Bok_Interface.csproj",
+      "projectPath": "C:\\Users\\Jonas\\RiderProjects\\Eksamen-Emne-4-OOP\\Bok_Interface\\Bok_Interface.csproj",
       "packagesPath": "C:\\Users\\Jonas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jonas\\RiderProjects\\Eksamen_Emne_4_OOP\\Bok_Interface\\obj\\",
+      "outputPath": "C:\\Users\\Jonas\\RiderProjects\\Eksamen-Emne-4-OOP\\Bok_Interface\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jonas\\AppData\\Roaming\\NuGet\\NuGet.Config"
