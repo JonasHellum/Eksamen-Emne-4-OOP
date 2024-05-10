@@ -46,13 +46,14 @@ bool ExportToCSV(List<IFormatable> objects, string fileName)
     try
     {
         var lines = objects.Select(i => i.ToCSV());
+        // Legger til header inn i CSV filen i tillegg til å legge inn objektene.
         File.WriteAllLines(fileName, new[] {header}.Concat(lines), System.Text.Encoding.UTF8);
         Console.WriteLine($"Suksess: CSV fil lagret -> '{fileName}'");
         return true;
     }
     catch (Exception e)
     {
-        Console.WriteLine(e);
+        Console.WriteLine($"Feil: CSV fil er ikke lagret: {e.Message}");
         return false;
     }
 }

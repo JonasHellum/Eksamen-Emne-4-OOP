@@ -23,8 +23,13 @@ Console.WriteLine($"tall: {tallInt}, Type: {tallInt.GetType()}");
 // Oppgave 1B
 Console.WriteLine("\nOppgave 1B");
 // ... oppgave B her 
-Console.Write("Skriv inn en setning: ");
-string input = Console.ReadLine();
+string input = "";
+while (string.IsNullOrWhiteSpace(input))
+{
+    Console.Write("Skriv inn en setning: ");
+    input = Console.ReadLine();
+}
+
 Console.WriteLine($"Antall ord i setningen er: {input!.Split(' ',
                                                 StringSplitOptions.RemoveEmptyEntries).Length}");
 #endregion

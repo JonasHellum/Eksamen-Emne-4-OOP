@@ -57,7 +57,8 @@ double CalculateSizeOfEBooks(List<Bok> books)
     double size = 0d;
     foreach (Bok book in books)
     {
-        if (book is E_bok ebok)
+        // Adder FileSize til Size hvis boken er en E-bok.
+        if (book is E_bok ebok) 
         {
             size += ebok.FileSize;
         }

@@ -15,6 +15,7 @@ public class CarService
         List<Car> cars = new List<Car>();
         int lineNr = 0;
         
+        // For å ignorere header linjen.
         sr.ReadLine();
         lineNr++;
         
@@ -25,9 +26,14 @@ public class CarService
                 string line = sr.ReadLine();
                 string[] values = line.Split(',');
                 
-                if (values.Length != 5)
+                // For at objektene som det er feil i ikke skal lagre seg men at den
+                // fortsatt skal gå gjennom alle parsene for å gi tilbakemelding på alt.
+                bool parseError = false;
+                
+                if (values.Length != 5) // Sjekker at formatet er riktig.
                 {
                     Console.WriteLine($"Feil på linje: {lineNr + 1}: Ugyldig format.");
+                    parseError = true;
                 }
 
                 string model = values[0];
@@ -35,8 +41,9 @@ public class CarService
                 int year = 0;
                 int milage = 0;
                 decimal price = 0;
-                bool parseError = false;
                 
+                // Laget flere try/catch for å kunne fange opp og komme
+                // med riktig kommentar til hvor feilen er.
                 try
                 {
                     year = int.Parse(values[1]);
@@ -67,6 +74,7 @@ public class CarService
                     parseError = true;
                 }
 
+                // Hvis det ikke er noen feil så lagres objektet til en liste.
                 if (!parseError)
                 {
                     Car car = new Car(model, year, color, milage, price);
