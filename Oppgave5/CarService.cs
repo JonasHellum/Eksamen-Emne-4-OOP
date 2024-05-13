@@ -8,7 +8,8 @@ public class CarService
         
         if (!File.Exists(cvsFile)) 
         {
-            throw new FileNotFoundException("CSV fil ikke funnet.", cvsFile);
+            Console.WriteLine($"CSV fil ikke funnet. \"{cvsFile}\"");
+            return null;
         }
         
         StreamReader sr = new StreamReader(cvsFile);
@@ -25,6 +26,13 @@ public class CarService
             {
                 string line = sr.ReadLine();
                 string[] values = line.Split(',');
+                string[] columns = { "Model", "Year", "Color", "Milage", "Price" };
+                
+                string model = values[0];
+                string color = values[2];
+                int year = 0;
+                int milage = 0;
+                decimal price = 0;
                 
                 // For at objektene som det er feil i ikke skal lagre seg men at den
                 // fortsatt skal gå gjennom alle parsene for å gi tilbakemelding på alt.
@@ -35,12 +43,15 @@ public class CarService
                     Console.WriteLine($"Feil på linje: {lineNr + 1}: Ugyldig format.");
                     parseError = true;
                 }
-
-                string model = values[0];
-                string color = values[2];
-                int year = 0;
-                int milage = 0;
-                decimal price = 0;
+                
+                for (int i = 0; i < values.Length; i++) // Sjekker at det er data i hver kolonne.
+                {
+                    if (string.IsNullOrWhiteSpace(values[i]))
+                    {
+                        Console.WriteLine($"Feil på linje: {lineNr + 1}: Kolonne {columns[i]} mangler data.");
+                        parseError = true;
+                    }
+                }
                 
                 // Laget flere try/catch for å kunne fange opp og komme
                 // med riktig kommentar til hvor feilen er.

@@ -5,6 +5,12 @@
 string fileName = "cars.csv";
 List<Car> cars = CarService.GetCarsFromCsv(fileName);
 
+if (cars == null || !cars.Any())
+{
+    Console.WriteLine($"Feil: Finner ingen data.");
+    return;
+}
+
 Console.WriteLine("1: Skriv ut alle biler fra og med årsmodell 2020 og nyere.");
 foreach (Car car in cars
              .Where(c => c.Year >= 2020))
